@@ -10,18 +10,18 @@ Name: Suryansh Singh
 5. All images are in folder named images inside assets.
 
 
-Music_Player_Frontend
-                |
-                +----Index.html
-                |
-                +----Single_artist_playlist.html
-                |
-                +----assets
-                        |
-                        +----Images
-                        |
-                        +----Styles
-                                |
-                                +----style.css
-                                |
-                                +----single_artist.css	
+       Music_Player_Frontend
+                    |
+                    +----Index.html
+                    |
+                    +----Single_artist_playlist.html
+                    |
+                    +----assets
+                            |
+                            +----Images
+                            |
+                            +----Styles
+                                    |
+                                    +----style.css
+                                    |
+                                    +----single_artist.css	
